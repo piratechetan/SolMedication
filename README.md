@@ -19,7 +19,7 @@ Project Installation
 
 ```bash
   https://github.com/piratechetan/SolMedication.git
-  cd Todos
+  cd SolMedication
   npm install or yarn install
 ```
 
