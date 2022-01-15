@@ -18,7 +18,7 @@
 Project Installation
 
 ```bash
-  git clone https://github.com/piratechetan/Todos.git
+  https://github.com/piratechetan/SolMedication.git
   cd Todos
   npm install or yarn install
 ```
